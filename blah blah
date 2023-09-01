@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace sta;
+in main(){
+string word; 
+cin>>word;
+cout<<"you are so ugly because you are " << word;
+
+return 0;
+}
